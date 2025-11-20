@@ -621,7 +621,6 @@ def main():
     
     print("\n✅ Demo complete! Happy researching! 🌳\n")
 
-#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
 # ============================================================================
 # MAIN EXECUTION
 # ============================================================================
